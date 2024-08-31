@@ -1,7 +1,8 @@
 <h1 align="center"> Nubit Light Node
 
 
-![nubit](https://github.com/user-attachments/assets/ed341c73-2f2c-47b0-8980-a13298b9d84b)
+![nubit](https://github.com/user-attachments/assets/732fb9fb-b90e-4382-8e44-2ae990f80637)
+
 
 
 </h1>
